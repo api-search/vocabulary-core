@@ -2,7 +2,9 @@
 aid: api-evangelist-vocabularies
 specificationVersion: '0.19'
 
-type: Index
+type: Governance
+position: Producer
+access: Internal
 
 name: APIs.io vocabularies
 description: This is the API contract for the APIs.io vocabularies, inventorying all of the vocabularies used across the platform.
